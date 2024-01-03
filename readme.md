@@ -1,6 +1,6 @@
 # Responsive Website Viewer
 **This project allows users to enter a website URL and view that website rendered on simulated device screens to test responsiveness.**
-
+<img src="https://github.com/Qmirdev/Website-Responsive-Viewer/blob/main/doc/1.png">
 
 ## Overview
 - The app contains simulated screens for iPhone, iPad, and iMac created with HTML and CSS
